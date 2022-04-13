@@ -1,0 +1,6 @@
+michael phelps;spa;1000.00;Sat Feb 29 00:00:00 PST 2020
+Ragnaros, the Firelord;conference;69.70;Sat Jan 01 00:00:00 PST 1
+HelloWorld;special event;0.00;Thu Feb 20 00:00:00 PST 2020
+Kyle Jenner;dinner;999.99;Mon Jan 02 00:00:00 PST 6969
+Elon Musky;conference;0.00;Sun Oct 10 00:00:00 PST 101
+Ezpz;spa;420.70;Tue Aug 24 00:00:00 PDT 2021
